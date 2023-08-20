@@ -1,6 +1,6 @@
 # Using Plex with RPDB
 
-There are 2 methods of using RPDB with Stremio:
+There are 2 methods of using RPDB with Plex:
 - [RPDB Folders app (recommended)](#rpdb-folders-app-recommended)
 - [Dedicated RPDB Plugin (less features)](#dedicated-rpdb-plugin-less-features)
 
