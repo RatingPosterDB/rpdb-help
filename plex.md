@@ -25,6 +25,4 @@ For more details, there is a [Quickstart Guide](https://github.com/RatingPosterD
 
 You can also use the dedicated RPDB Plugin for Plex, but it has a lot less features compared to the RPDB Folders app.
 
-To install the RPDB Plugin:
-- [Download the plugin](https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/tag/v0.0.5)
-- Install the plugin following [this guide](https://support.plex.tv/articles/201187656-how-do-i-manually-install-a-plugin/)
+To install the RPDB Plugin for Plex, you can follow [this guide](https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/blob/main/README.md). (we suggest using the "Stable" version)
