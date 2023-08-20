@@ -1,8 +1,8 @@
 # Using Plex with RPDB
 
 There are 2 methods of using RPDB with Stremio:
-- [RPDB Folders app (recommended)](#stremio-addons-that-support-rpdb-all-platforms)
-- [Dedicated RPDB Plugin (less features)](#alternative-method-for-desktop-only)
+- [RPDB Folders app (recommended)](#rpdb-folders-app-recommended)
+- [Dedicated RPDB Plugin (less features)](#dedicated-rpdb-plugin-less-features)
 
 Using RPDB with Plex will enable ratings on posters: (scroll down for guides)
 ![smart-tv-1](https://github.com/jaruba/rpdb-help/assets/1777923/1e1e581f-93c1-4526-a53f-13badd0044cb)
