@@ -1,5 +1,9 @@
 # Using Stremio with RPDB
 
+There are 2 methods of using RPDB with Stremio:
+- [Stremio Addons that Support RPDB (all platforms)](#stremio-addons-that-support-rpdb-all-platforms)
+- [Alternative Method (for desktop only)](#alternative-method-for-desktop-only)
+
 Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 
 ![desktop-1](https://github.com/jaruba/rpdb-help/assets/1777923/9294e3b0-dc23-430b-b778-64f8a70db5c8)
