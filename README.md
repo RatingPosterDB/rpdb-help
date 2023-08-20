@@ -3,6 +3,7 @@ Help and documentation for RPDB
 
 Integrating RPDB with:
 - [Stremio](./stremio.md)
-- Plex
-- Emby
-- Jellyfin
+- [Plex](./plex.md)
+- [Emby](./emby.md)
+- [Jellyfin](./jellyfin.md)
+- [Kodi](./kodi.md)
