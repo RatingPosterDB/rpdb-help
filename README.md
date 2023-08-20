@@ -2,7 +2,7 @@
 Help and documentation for RPDB
 
 Integrating RPDB with:
-- Stremio
+- [Stremio](./stremio.md)
 - Plex
 - Emby
 - Jellyfin
