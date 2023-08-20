@@ -1,6 +1,6 @@
 # Using Stremio with RPDB
 
-Using RPDB with Stremio will enable ratings on posters:
+Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 
 ![desktop-1](https://github.com/jaruba/rpdb-help/assets/1777923/9294e3b0-dc23-430b-b778-64f8a70db5c8)
 ![android-tv-1](https://github.com/jaruba/rpdb-help/assets/1777923/0243dc8e-e012-46a7-86d0-aa5603ca750c)
