@@ -1,7 +1,8 @@
-# RPDB Help Center
+# RatingPosterDB Help Center
+
 Help and documentation for RPDB
 
-Integrating RPDB with:
+Learn how to integrate RPDB with the following apps:
 - [Stremio](./stremio.md)
 - [Plex](./plex.md)
 - [Emby](./emby.md)
