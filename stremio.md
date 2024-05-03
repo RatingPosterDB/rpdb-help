@@ -21,7 +21,7 @@ Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 - [IMDB Catalogs](https://1fe84bc728af-imdb-catalogs.baby-beamup.club/configure)
 - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 - [The Movie Database Addon](https://94c8cb9f702d-tmdb-addon.baby-beamup.club/configure)
-- [Cyberflix](https://82d7ae415a21-llama-catalog.baby-beamup.club/)
+- [Streaming Catalogs](https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/configure)
 - [Trakt.tv](https://2ecbbd610840-trakt.baby-beamup.club/configure/)
 
 _If you used the "Default Poster Manager", then you will need to leave the default RPDB settings for each addon when installing it in Stremio, in order for the changes of the poster manager to take effect._
