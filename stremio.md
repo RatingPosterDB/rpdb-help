@@ -16,7 +16,7 @@ Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 - Go to the [Default Poster Manager](https://manager.ratingposterdb.com/), insert your API Key, and configure your desired poster settings
 - Install an addon that supports RPDB (by adding the RPDB API Key to the configuration page of each addon that supports it)
 
-**Stremio Addons that currently support RPDB:**
+### Stremio Addons that currently support RPDB:
 - [RPDB Catalogs](https://1fe84bc728af-rpdb.baby-beamup.club/configure)
 - [IMDB Catalogs](https://1fe84bc728af-imdb-catalogs.baby-beamup.club/configure)
 - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
