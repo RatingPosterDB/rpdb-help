@@ -7,6 +7,7 @@ There are 2 methods of using RPDB with Stremio:
 Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 
 <img width="1440" alt="desktop-4" src="https://github.com/user-attachments/assets/e96c301a-5f3f-48da-81c5-05b44002b8f6">
+
 ![android-tv-4](https://github.com/user-attachments/assets/a76b8a9b-9613-4e89-9fc2-de875705ae4c)
 
 
