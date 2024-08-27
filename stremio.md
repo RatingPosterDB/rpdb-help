@@ -35,4 +35,4 @@ The first 4 rows in Stremio always come from Cinemeta, this is Stremio's officia
 
 In order to change the posters for the Cinemeta addon, you can use the [Cinemeta (with ratings)](https://cinemeta.ratingposterdb.com/) addon.
 
-This addon will only work with Tier 1+ API Keys (paid API Keys).
+Due to additional unexpected costs, this addon will only work with Tier 1+ API Keys (paid API Keys).
