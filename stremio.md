@@ -1,8 +1,8 @@
 # Using Stremio with RPDB
 
 There are 2 methods of using RPDB with Stremio:
-- [Stremio Addons that Support RPDB (all platforms)](#stremio-addons-that-support-rpdb-all-platforms)
-- [Alternative Method (for desktop only)](#alternative-method-for-desktop-only)
+- [Stremio Addons that Support RPDB](#stremio-addons-that-support-rpdb)
+- [Replace Cinemeta Posters](#replace-cinemeta-posters)
 
 Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 
@@ -11,7 +11,7 @@ Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 ![android-tv-4](https://github.com/user-attachments/assets/a76b8a9b-9613-4e89-9fc2-de875705ae4c)
 
 
-## Stremio Addons that Support RPDB (all platforms)
+## Stremio Addons that Support RPDB
 
 **In order to accomplish this, you must:**
 - [Subscribe to RPDB](https://patreon.com/rpdb) to get an API Key
@@ -28,13 +28,10 @@ Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 - [Trakt.tv](https://2ecbbd610840-trakt.baby-beamup.club/configure/)
 - [Rotten Tomatoes](https://7a82163c306e-rottentomatoes.baby-beamup.club/configure)
 
-_If you used the "Default Poster Manager", then you will need to leave the default RPDB settings for each addon when installing it in Stremio, in order for the changes of the poster manager to take effect._
+## Replace Cinemeta Posters
 
-## Alternative Method (for desktop only)
+The first 4 rows in Stremio always come from Cinemeta, this is Stremio's official metadata addon.
 
-There is also a method of changing all the posters of the Stremio Desktop app (only for Windows, MacOS and Linux) to posters with ratings, in order to use this method you will need to:
-- create a new desktop shortcut icon for Stremio (you can call it "Stremio-RPDB", this is needed so the shortcut won't always be overwritten by Stremio on a new update)
-- edit the desktop shortcut to add a command line argument ([here is a guide](https://www.digitalcitizen.life/shortcut-arguments-parameters-windows/) for how to do this on Windows)
-- the command line argument that you need to add is: `--webui-url="https://stremio.ratingposterdb.com/shell/"`
+In order to change the posters for the Cinemeta addon, you can use the [Cinemeta (with ratings)](https://cinemeta.ratingposterdb.com/) addon.
 
-There is a video showing how this method works on the desktop app, you can [see it here](https://www.youtube.com/watch?v=XPMflQZTcDg). 
+This addon will only work with Tier 1+ API Keys (paid API Keys).
