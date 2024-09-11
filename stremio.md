@@ -28,6 +28,9 @@ Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 - [Trakt.tv](https://2ecbbd610840-trakt.baby-beamup.club/configure/)
 - [Rotten Tomatoes](https://7a82163c306e-rottentomatoes.baby-beamup.club/configure)
 - [MDBList](https://1fe84bc728af-stremio-mdblist.baby-beamup.club/configure)
+- [Top Seeded Torrent Catalogs](https://1fe84bc728af-top-seeded.baby-beamup.club/configure)
+- [Anime Seasons](https://1fe84bc728af-anime-seasons.baby-beamup.club/configure)
+- [Letterboxd](https://letterboxd.almosteffective.com/configure/)
 - [Stremio Lists](https://www.journey.co.il/stremio/) - for this addon: press the "Register" button at the top left, create an account, log in and press "Your Catalogs" (also on the top left), insert your RPDB Key, all addons that you will install on this website will include RPDB posters
 
 ## Replace Cinemeta Posters
