@@ -2,7 +2,7 @@
 
 There are 2 methods of using RPDB with Emby:
 - [Dedicated RPDB Emby Plugin](#dedicated-rpdb-plugin)
-- [RPDB Folders app (recommended)](#rpdb-folders-app-recommended)
+- [RPDB Folders app](#rpdb-folders-app)
 
 Using RPDB with Emby will enable ratings on posters: (scroll down for guides)
 ![smart-tv-1](https://github.com/jaruba/rpdb-help/assets/1777923/95684065-80e3-49d3-83ac-22e2c82f6c6c)
@@ -16,7 +16,7 @@ The RPDB plugin for Emby can be installed from the official Emby Plugins catalog
 The plugin can also be sideloaded (if you so wish) by following [this guide](https://github.com/RatingPosterDB/RPDB-Emby-Plugin/blob/main/README.md)
 
 
-## RPDB Folders app (recommended)
+## RPDB Folders app
 
 The "RPDB Folders" app works the following way:
 - you install it on the same device where you are running your Emby Server from
