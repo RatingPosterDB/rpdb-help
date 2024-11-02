@@ -1,7 +1,7 @@
 # Using Emby with RPDB
 
 There are 2 methods of using RPDB with Emby:
-- [Dedicated RPDB Emby Plugin](#dedicated-rpdb-plugin)
+- [Dedicated RPDB Emby Plugin](#dedicated-rpdb-emby-plugin)
 - [RPDB Folders app](#rpdb-folders-app)
 
 Using RPDB with Emby will enable ratings on posters: (scroll down for guides)
