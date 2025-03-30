@@ -11,7 +11,7 @@ Using RPDB with Emby will enable ratings on posters: (scroll down for guides)
 
 ## Dedicated RPDB Emby Plugin
 
-The RPDB plugin for Emby can be installed from the official Emby Plugins catalog. You can find it under the "General" category with the "RatingPluginDB" name.
+The RPDB plugin for Emby can be installed from the official Emby Plugins catalog. You can find it under the "Metadata" category with the "RatingPluginDB" name.
 
 The plugin can also be sideloaded (if you so wish) by following [this guide](https://github.com/RatingPosterDB/RPDB-Emby-Plugin/blob/main/README.md)
 
