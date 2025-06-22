@@ -1,7 +1,5 @@
 # Using Kodi with RPDB
 
-**Warning: RPDB posters will only work with Kodi if you have built your own media library locally, it will not work with plugins that serve remote streams because the plugins would need to implement RPDB support individually.**
-
 There is 2 methods of using RPDB with Kodi:
 - Using [TheMovieDB Helper](#themoviedb-helper-addon) Addon
 - [RPDB Folders app](#rpdb-folders-app)
@@ -17,6 +15,8 @@ You can install [TheMovieDB Helper Addon](https://github.com/jurialmunkey/plugin
 After setting up TheMovieDB Helper addon with your RPDB API Key, you should go to [RPDB Poster Manager](https://manager.ratingposterdb.com/) to set up your poster preferences.
 
 ## RPDB Folders app
+
+**Warning: Using the RPDB Folders app will only work with Kodi if you have built your own media library locally, it will not work with addons that serve remote streams because the addons would need to implement RPDB support individually.**
 
 The "RPDB Folders" app works the following way:
 - you install it on the same device where you are running your Kodi app from
