@@ -16,7 +16,7 @@ After setting up TheMovieDB Helper addon with your RPDB API Key, you should go t
 
 ## RPDB Folders app
 
-**Warning: Using the RPDB Folders app will only work with Kodi if you have built your own media library locally, it will not work with addons that serve remote streams because the addons would need to implement RPDB support individually.**
+**Warning: Using the RPDB Folders app will only work with Kodi if you have built your own media library locally, it will not work with addons that serve remote streams, each Kodi addon would need to implement RPDB support individually.**
 
 The "RPDB Folders" app works the following way:
 - you install it on the same device where you are running your Kodi app from
