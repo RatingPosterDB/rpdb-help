@@ -1,8 +1,8 @@
 # Using Kodi with RPDB
 
-There is 2 methods of using RPDB with Kodi:
-- Using [TheMovieDB Helper](#themoviedb-helper-addon) Addon
-- [RPDB Folders app](#rpdb-folders-app)
+There are 2 methods of using RPDB with Kodi:
+- Using [TheMovieDB Helper](#themoviedb-helper-addon) Addon (work with both online and local media)
+- [RPDB Folders app](#rpdb-folders-app) (works only with local media)
 
 Using RPDB with Kodi will enable ratings on posters: (scroll down for guides)
 ![phone-1](https://github.com/jaruba/rpdb-help/assets/1777923/60009c64-9e52-4e06-9852-aecb61cc315d)
