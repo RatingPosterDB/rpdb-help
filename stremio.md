@@ -35,6 +35,7 @@ Using RPDB with Stremio will enable ratings on posters: (scroll down for guides)
 - [Star Wars Universe Addon](https://addon-star-wars-u9e3.onrender.com/configure)
 - [AIOStreams](https://aiostreams.elfhosted.com/stremio/configure)
 - [Letterboxd](https://letterboxd.almosteffective.com/configure/)
+- [MyTrakt Sync](https://mytrakt.elfhosted.com/)
 - [Stremio Lists](https://www.journey.co.il/stremio/) - for this addon: press the "Register" button at the top left, create an account, log in and press "Your Catalogs" (also on the top left), insert your RPDB Key, all addons that you will install on this website will include RPDB posters
 
 ## Replace Cinemeta Posters
