@@ -26,6 +26,14 @@ To upgrade to lifetime from a monthly subscription is easy, simply go to [this p
 
 To upgrade to lifetime from a yearly subscription though is more complicated, the only way we know of doing this with Patreon is by creating a new Patreon account by adding a dot "." somewhere in your email (example: "al.ex@gmail.com" instead of "alex@gmail.com"), email providers ignore dots, so the emails are sent to the same inbox, but Patreon will consider it a new email so you can create another account with it. You should then subscribe to lifetime from the new account (and unsubscribe after receiving your API key) and send us a message on Patreon to refund the payment from the initial account.
 
+### The images stopped loading, what happened?
+
+If this happens you should use the "Login" button on the [RatingPosterDB Website](https://ratingposterdb.com) to ensure that you did not reach the monthly request limit. If you did reach the limit you can contact us and we will reset your request limit, we can do this sometimes but not frequently, otherwise the request limit resets itself on the 1st of the month.
+
 ### How do I cancel the subscription?
 
 To unsubscribe you should do so from Patreon, specifically this [Patreon RPDB Membership](https://www.patreon.com/settings/memberships/rpdb) page, there is a "Cancel membership" button on this page.
+
+### How do I contact support?
+
+You can either press the "Contact" button on the [RatingPosterDB Website](https://ratingposterdb.com) or start a chat on Patreon.
